@@ -81,6 +81,16 @@ AI(AI + 아이)와 포켓몬처럼 귀여운 느낌의 "mon"을 합쳐 AIMon이�
 
 ---
 
+## 📸 시연 사진
+
+### 🧍 무궁화 꽃이 피었습니다
+<img src="images/mugunghwa_game.png" width="500"/>
+
+### 🐶 동물 인식 예시
+<img src="images/animal_detection_dog.png" width="500"/>
+
+---
+
 ## 📁 폴더 구조
 
 ```bash
@@ -97,6 +107,10 @@ INTEL_EDGE_AIMon/
 ├── server/
 │   ├── Makefile
 │   └── server.c
+│
+├── images/
+│   ├── mugunghwa_game.png
+│   └── animal_detection_dog.png
 │
 ├── LICENSE
 └── README.md
